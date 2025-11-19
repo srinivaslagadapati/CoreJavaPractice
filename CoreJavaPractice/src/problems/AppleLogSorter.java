@@ -1,4 +1,4 @@
-package apple;
+package problems;
 
 import java.util.*;
 
